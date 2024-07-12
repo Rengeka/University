@@ -1,0 +1,27 @@
+﻿  ASDLab2FINAL.cpp
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(80,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(136,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(186,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(200,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(206,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(214,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(228,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(238,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(249,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(272,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(297,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(306,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(320,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(324,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(341,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(344,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(362,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(378,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(382,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(402,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(416,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(431,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stasi\source\repos\new\ASDLab2FINAL\ASDLab2FINAL\ASDLab2FINAL.cpp(454,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ASDLab2FINAL.vcxproj -> C:\Users\stasi\source\repos\new\ASDLab2FINAL\x64\Debug\ASDLab2FINAL.exe

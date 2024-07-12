@@ -1,0 +1,4 @@
+﻿  AraySort.cpp
+C:\Users\stasi\source\repos\new\AraySort\AraySort\AraySort.cpp(76,17): warning C4101: 'k': unreferenced local variable
+C:\Users\stasi\source\repos\new\AraySort\AraySort\AraySort.cpp(459,9): warning C4102: 'deffault': unreferenced label
+  AraySort.vcxproj -> C:\Users\stasi\source\repos\new\AraySort\x64\Debug\AraySort.exe

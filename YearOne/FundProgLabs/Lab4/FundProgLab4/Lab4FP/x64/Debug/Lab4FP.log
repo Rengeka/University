@@ -1,0 +1,4 @@
+﻿  Lab4FP.cpp
+C:\Users\stasi\source\repos\new\Lab4FP\Lab4FP\Lab4FP.cpp(204,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stasi\source\repos\new\Lab4FP\Lab4FP\Lab4FP.cpp(205,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Lab4FP.vcxproj -> C:\Users\stasi\source\repos\new\Lab4FP\x64\Debug\Lab4FP.exe

@@ -1,0 +1,3 @@
+﻿  FProgLab2.cpp
+C:\Users\stasi\source\repos\new\FProgLab2\FProgLab2\FProgLab2.cpp(75,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FProgLab2.vcxproj -> C:\Users\stasi\source\repos\new\FProgLab2\x64\Debug\FProgLab2.exe

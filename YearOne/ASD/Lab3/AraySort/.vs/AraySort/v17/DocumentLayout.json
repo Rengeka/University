@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stasi\\Desktop\\YearOne\\ASD\\AraySort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA8D479-DD55-4013-8928-80985CDA73CB}|AraySort\\AraySort.vcxproj|C:\\Users\\stasi\\Desktop\\YearOne\\ASD\\AraySort\\AraySort\\AraySort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EA8D479-DD55-4013-8928-80985CDA73CB}|AraySort\\AraySort.vcxproj|solutionrelative:AraySort\\AraySort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AraySort.cpp",
+              "DocumentMoniker": "C:\\Users\\stasi\\Desktop\\YearOne\\ASD\\AraySort\\AraySort\\AraySort.cpp",
+              "RelativeDocumentMoniker": "AraySort\\AraySort.cpp",
+              "ToolTip": "C:\\Users\\stasi\\Desktop\\YearOne\\ASD\\AraySort\\AraySort\\AraySort.cpp",
+              "RelativeToolTip": "AraySort\\AraySort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-09-21T07:23:16.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

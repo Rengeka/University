@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\OOPLab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|solutionrelative:OOPLab2\\OOPLab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\Side.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|solutionrelative:OOPLab2\\Side.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\OneShelfTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|solutionrelative:OOPLab2\\OneShelfTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|solutionrelative:OOPLab2\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\OneShelfTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|solutionrelative:OOPLab2\\OneShelfTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|solutionrelative:OOPLab2\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\Side.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC8F1F06-44A3-4C0D-98B8-86A7851789B4}|OOPLab2\\OOPLab2.vcxproj|solutionrelative:OOPLab2\\Side.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OneShelfTable.cpp",
+              "DocumentMoniker": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\OneShelfTable.cpp",
+              "RelativeDocumentMoniker": "OOPLab2\\OneShelfTable.cpp",
+              "ToolTip": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\OneShelfTable.cpp",
+              "RelativeToolTip": "OOPLab2\\OneShelfTable.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T09:59:00.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Side.cpp",
+              "DocumentMoniker": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\Side.cpp",
+              "RelativeDocumentMoniker": "OOPLab2\\Side.cpp",
+              "ToolTip": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\Side.cpp",
+              "RelativeToolTip": "OOPLab2\\Side.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T09:48:57.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "OOPLab2\\Rectangle.cpp",
+              "ToolTip": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\Rectangle.cpp",
+              "RelativeToolTip": "OOPLab2\\Rectangle.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T09:47:53.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OneShelfTable.h",
+              "DocumentMoniker": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\OneShelfTable.h",
+              "RelativeDocumentMoniker": "OOPLab2\\OneShelfTable.h",
+              "ToolTip": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\OneShelfTable.h",
+              "RelativeToolTip": "OOPLab2\\OneShelfTable.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T09:43:05.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.h",
+              "DocumentMoniker": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\Rectangle.h",
+              "RelativeDocumentMoniker": "OOPLab2\\Rectangle.h",
+              "ToolTip": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\Rectangle.h",
+              "RelativeToolTip": "OOPLab2\\Rectangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T09:39:41.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Side.h",
+              "DocumentMoniker": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\Side.h",
+              "RelativeDocumentMoniker": "OOPLab2\\Side.h",
+              "ToolTip": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\Side.h",
+              "RelativeToolTip": "OOPLab2\\Side.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T09:39:09.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOPLab2.cpp",
+              "DocumentMoniker": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\OOPLab2.cpp",
+              "RelativeDocumentMoniker": "OOPLab2\\OOPLab2.cpp",
+              "ToolTip": "C:\\Users\\stasi\\source\\repos\\new\\OOPLab2\\OOPLab2\\OOPLab2.cpp",
+              "RelativeToolTip": "OOPLab2\\OOPLab2.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T09:38:29.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

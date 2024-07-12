@@ -1,0 +1,13 @@
+﻿  OOPLab1.cpp
+C:\Users\stasi\source\repos\new\OOPLab1\OOPLab1\OOPLab1.cpp(95,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\stasi\source\repos\new\OOPLab1\OOPLab1\OOPLab1.cpp(289,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stasi\source\repos\new\OOPLab1\OOPLab1\OOPLab1.cpp(310,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stasi\source\repos\new\OOPLab1\OOPLab1\OOPLab1.cpp(330,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stasi\source\repos\new\OOPLab1\OOPLab1\OOPLab1.cpp(348,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stasi\source\repos\new\OOPLab1\OOPLab1\OOPLab1.cpp(395,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stasi\source\repos\new\OOPLab1\OOPLab1\OOPLab1.cpp(424,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stasi\source\repos\new\OOPLab1\OOPLab1\OOPLab1.cpp(487,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stasi\source\repos\new\OOPLab1\OOPLab1\OOPLab1.cpp(549,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Worker.cpp
+  Generating Code...
+  OOPLab1.vcxproj -> C:\Users\stasi\source\repos\new\OOPLab1\x64\Debug\OOPLab1.exe

@@ -1,0 +1,3 @@
+﻿  ASDStack.cpp
+C:\Users\stasi\source\repos\new\ASDStack\ASDStack\ASDStack.cpp(15,22): warning C4553: '==': result of expression not used; did you intend '='?
+  ASDStack.vcxproj -> C:\Users\stasi\source\repos\new\ASDStack\x64\Debug\ASDStack.exe
